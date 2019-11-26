@@ -1,0 +1,23 @@
+{
+  "name": "smartlightstatus",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RaamOdedra/SmartLightStatus.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RaamOdedra/SmartLightStatus/issues"
+  },
+  "homepage": "https://github.com/RaamOdedra/SmartLightStatus#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.7.12"
+  }
+}
